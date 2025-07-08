@@ -1,6 +1,6 @@
 {
   "name": "paint-terminal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It gives color to console & terminal to print txt.",
   "type": "module",
   "main": "lib/cjs/index.cjs",
@@ -11,11 +11,6 @@
     "require": "./lib/cjs/index.cjs"
   },
   "types": "lib/esm/index.d.ts",
-
-  "files": [
-    "build",
-    "README.md"
-  ],
 
   "scripts": {
     
